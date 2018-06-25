@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 "jinja2schema" = "*"
 fire = "*"
+click = "*"
 
 [dev-packages]
 
