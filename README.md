@@ -1,2 +1,0 @@
-# jinja-helper
-jinja helper
