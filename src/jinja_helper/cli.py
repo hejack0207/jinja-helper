@@ -29,5 +29,5 @@ def _process(jinjafile, sample_or_schema=True):
                 print(to_json_schema(sample))
 
 
-if __name__ == '__main__':
+def main():
     fire.Fire()

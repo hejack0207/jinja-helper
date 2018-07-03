@@ -17,6 +17,7 @@ entry_points = """
 # script_name = jinja_helper.module:function
 # For example:
 # fibonacci = jinja_helper.skeleton:run
+jinja-helper = jinja_helper.cli:main
 """
 
 
