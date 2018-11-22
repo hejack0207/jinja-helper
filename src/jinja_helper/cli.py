@@ -30,4 +30,7 @@ def _process(jinjafile, sample_or_schema=True):
 
 
 def main():
-    fire.Fire()
+    fire.Fire({
+        'sample': sample,
+        'schema': schema
+    })
